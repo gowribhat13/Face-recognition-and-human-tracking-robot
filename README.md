@@ -36,5 +36,5 @@ https://docs.google.com/presentation/d/1M6QJWruSeDeU0I9Kl6kyYnoeZc7ny5FS/edit?us
 
 ---
 
-Developed by *Team – Face Recognition and Human Tracking Robot*  
+Developed by *Team – Anup Patnaik, Gowri Bhat, Momina
 🧑‍💻 Internship: AENEXZ Internship
